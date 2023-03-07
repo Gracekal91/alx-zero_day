@@ -1,5 +1,6 @@
 git add
-git commit -m""
+git commit
 git push
 git checkout
 git stash
+git pull
